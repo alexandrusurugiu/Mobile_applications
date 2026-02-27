@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|c:\\users\\user\\dev\\mobile_applications\\mynotes\\views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|solutionrelative:views\\notepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|c:\\users\\user\\dev\\mobile_applications\\mynotes\\viewmodels\\noteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|solutionrelative:viewmodels\\noteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|c:\\users\\user\\dev\\mobile_applications\\mynotes\\views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|solutionrelative:views\\allnotespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|c:\\users\\user\\dev\\mobile_applications\\mynotes\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|c:\\users\\user\\dev\\mobile_applications\\mynotes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|c:\\users\\user\\dev\\mobile_applications\\mynotes\\views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|solutionrelative:views\\allnotespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|c:\\users\\user\\dev\\mobile_applications\\mynotes\\viewmodels\\notesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|solutionrelative:viewmodels\\notesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|c:\\users\\user\\dev\\mobile_applications\\mynotes\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|solutionrelative:views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|c:\\users\\user\\dev\\mobile_applications\\mynotes\\views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|solutionrelative:views\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|c:\\users\\user\\dev\\mobile_applications\\mynotes\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|solutionrelative:viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|c:\\users\\user\\dev\\mobile_applications\\mynotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AE5E25-9844-C299-A236-24DC7B8650E9}|MyNotes.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:59:32.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllNotesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Views\\AllNotesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AllNotesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Views\\AllNotesPage.xaml.cs",
+              "RelativeToolTip": "Views\\AllNotesPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:58:31.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T17:53:41.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\ViewModels\\NoteViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\NoteViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\ViewModels\\NoteViewModel.cs",
+              "RelativeToolTip": "ViewModels\\NoteViewModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:54:01.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotePage.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Views\\NotePage.xaml",
+              "RelativeDocumentMoniker": "Views\\NotePage.xaml",
+              "ToolTip": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Views\\NotePage.xaml",
+              "RelativeToolTip": "Views\\NotePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T17:00:28.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Views\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Views\\AboutPage.xaml.cs",
+              "RelativeToolTip": "Views\\AboutPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:53:06.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "Views\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "Views\\AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T17:51:35.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllNotesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Views\\AllNotesPage.xaml",
+              "RelativeDocumentMoniker": "Views\\AllNotesPage.xaml",
+              "ToolTip": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Views\\AllNotesPage.xaml",
+              "RelativeToolTip": "Views\\AllNotesPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T16:39:24.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\ViewModels\\NotesViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\NotesViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\ViewModels\\NotesViewModel.cs",
+              "RelativeToolTip": "ViewModels\\NotesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:40:14.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\ViewModels\\AboutViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AboutViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\ViewModels\\AboutViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AboutViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:52:52.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "C:\\Users\\USER\\dev\\Mobile_applications\\MyNotes\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:26:44.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
